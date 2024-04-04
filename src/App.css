@@ -1,0 +1,34 @@
+/* App.css */
+
+body {
+  background-color: #f7f7f7;
+}
+
+.App {
+  text-align: center;
+  margin: 20px;
+}
+
+h1 {
+  font-size: 36px;
+  color: #ff6b6b; /* Merah */
+}
+
+h2 {
+  font-size: 24px;
+  color: #6ab04c; /* Hijau */
+}
+
+p {
+  font-size: 18px;
+  color: #5e81ac; /* Biru */
+}
+
+.section {
+  margin-bottom: 20px;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #fdf6e3; /* Kuning Muda */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
